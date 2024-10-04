@@ -1,0 +1,29 @@
+nav.navbar {
+  padding-top: 46px;
+  width: 100%;
+
+  position: relative;
+  z-index: 999;
+
+  @media screen and (max-width: 450px) {
+    padding-top: 20px;
+  }
+
+  .sec_container {
+    display: flex;
+    align-items: center;
+    gap: 19px;
+    width: 100%;
+    justify-content: center;
+    .logo_container {
+      img {
+        object-fit: cover;
+      }
+    }
+    .logo {
+      img {
+        object-fit: cover;
+      }
+    }
+  }
+}
