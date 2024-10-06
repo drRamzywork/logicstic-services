@@ -11,6 +11,7 @@ const langs = [
   { titleAr: 'الصـينيـة', titleEn: "汉语", img: '4.png', lang: 'ch', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_en.mp4' },
   { titleAr: 'الـروسيـة', titleEn: "Русский", img: '5.png', lang: 'ru', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_ru.mp4' },
   { titleAr: 'الإسبانية', titleEn: "Español", img: '6.png', lang: 'es', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_es.mp4' },
+  { titleAr: 'الإيطالية', titleEn: "Italian", img: 'it.png', lang: 'it', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_it.mp4' },
 
 ]
 
