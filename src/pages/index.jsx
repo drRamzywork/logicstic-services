@@ -85,6 +85,8 @@ export default function App() {
         />
         <meta name="twitter:description" content={desc} />
       </Head>
+
+
       <Home />
     </>
   );

@@ -5,22 +5,13 @@ import styles from './index.module.scss';
 import Video from '../Video';
 
 const langs = [
-<<<<<<< HEAD
-  { titleAr: 'العـــربيـة', titleEn: "Arabic", img: '1.png', lang: 'ar', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_en.mp4' },
-  { titleAr: 'الإنجليزية', titleEn: "English", img: '2.png', lang: 'en', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_en.mp4' },
-  { titleAr: 'الفرنسـية', titleEn: "Français", img: '3.png', lang: 'fr', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_fr.mp4' },
-  { titleAr: 'الصـينيـة', titleEn: "汉语", img: '4.png', lang: 'ch', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_en.mp4' },
-  { titleAr: 'الـروسيـة', titleEn: "Русский", img: '5.png', lang: 'ru', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_ru.mp4' },
-  { titleAr: 'الإسبانية', titleEn: "Español", img: '6.png', lang: 'es', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_es.mp4' },
-  { titleAr: 'الإيطالية', titleEn: "Italian", img: 'it.png', lang: 'it', videoURL: 'http://drramzy-001-site1.gtempurl.com/video_it.mp4' },
-=======
   { titleAr: 'العـــربيـة', titleEn: "Arabic", img: '1.png', lang: 'ar', videoURL: 'https://suwa.com.sa/v/ar.mp4' },
   { titleAr: 'الإنجليزية', titleEn: "English", img: '2.png', lang: 'en', videoURL: 'https://suwa.com.sa/v/en.mp4' },
   { titleAr: 'الفرنسـية', titleEn: "Français", img: '3.png', lang: 'fr', videoURL: 'https://suwa.com.sa/v/fr.mp4' },
   { titleAr: 'الصـينيـة', titleEn: "汉语", img: '4.png', lang: 'ch', videoURL: 'https://suwa.com.sa/v/ch.mp4' },
   { titleAr: 'الـروسيـة', titleEn: "Русский", img: '5.png', lang: 'ru', videoURL: 'https://suwa.com.sa/v/ru.mp4' },
   { titleAr: 'الإسبانية', titleEn: "Español", img: '6.png', lang: 'es', videoURL: 'https://suwa.com.sa/v/es.mp4' },
->>>>>>> 06ff046e2b1b6a0dd6b3e532a477dd9fdffd436c
+  { titleAr: 'الإيطالية', titleEn: "Italian", img: 'it.png', lang: 'it', videoURL: 'https://suwa.com.sa/v/it.mp4' },
 
 ]
 
